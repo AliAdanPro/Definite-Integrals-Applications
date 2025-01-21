@@ -16,11 +16,11 @@ This project demonstrates how definite integrals can solve real-world problems t
 
 The project generates insightful graphs:
 - **Speed vs. Fuel Consumption Rate**
-![image](https://github.com/user-attachments/assets/3ba6cdbb-8231-4275-81f1-d1912fc59329)
+<img src="https://github.com/user-attachments/assets/3ba6cdbb-8231-4275-81f1-d1912fc59329" alt="Fuel Consumption Graph" width="600"/>
 
 
 - **Demand Curve with Consumer Surplus**
-![image](https://github.com/user-attachments/assets/5d651ce0-39f6-42b6-b805-83c532e3e377)
+<img src="https://github.com/user-attachments/assets/5d651ce0-39f6-42b6-b805-83c532e3e377" alt="Consumer Surplus Graph" width="600"/>
 
 
 
